@@ -27,6 +27,7 @@
 - Jordan Boyd-Graber
 - Daniel Blanchard
 - Phil Blunsom
+- Ward Bradt
 - Lars Buitinck
 - Cristian Capdevila
 - Steve Cassidy
